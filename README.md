@@ -1,2 +1,4 @@
 # proj1-bremorse
-Creating line graph over a set of data
+
+- Learning how to create graphs over a set of data.
+- Visualizing the graphs.
